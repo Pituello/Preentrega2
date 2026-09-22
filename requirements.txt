@@ -1,0 +1,7 @@
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-ollama
+python-dotenv
+loguru
